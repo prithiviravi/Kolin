@@ -25,7 +25,7 @@ SECRET_KEY = '+(-8s2h2+e-d1pi+8e=l1(z!!ac)66q4znpj1x&u10i^p@o0s$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','kolinpluscalculator.herokuapp.com']
 
 
 # Application definition
